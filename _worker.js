@@ -19,7 +19,7 @@ https://trojan.amcloud.filegear-sg.me/auto
 
 let urls = [];
 let subconverter = "url.v1.mk"; //在线订阅转换后端。支持自建psub 可自行搭建https://github.com/bulianglin/psub
-let subconfig = "https://raw.githubusercontent.com/ansoncloud8/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"; //订阅配置文件
+let subconfig = "https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Mannix.ini"; //订阅配置文件
 let subProtocol = 'https';
 
 export default {
